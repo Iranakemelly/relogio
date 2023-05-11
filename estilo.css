@@ -1,0 +1,31 @@
+body{
+background-image: linear-gradient(to right, pink, bisque);
+
+}
+#main{
+    width:600px;
+    height:200px;
+    background-image:linear-gradient(to left, orange,black);
+    margin-left: 25%;
+    font-size:50px;
+    color:white;
+    text-align: center;
+    padding-top: 20px;
+}
+#ligar{
+    width:100px;
+    height: 70px;
+    background-color: black;
+    color: pink;
+    margin-left:40%;
+
+}
+#desligar{
+    width:100px;
+    height: 70px;
+    background-color: black;
+    color: pink;
+    margin-left:3%;
+    margin-top: 20px;
+
+}
